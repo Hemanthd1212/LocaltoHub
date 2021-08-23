@@ -1,5 +1,0 @@
-<script>
-function login(){
-
-}
-</script>
